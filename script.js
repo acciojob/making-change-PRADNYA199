@@ -1,6 +1,6 @@
 const makeChange = (c) => {
   // your name here
-	c=parsInt(c,10);
+	c=parseInt(c,10);
 	let change={
 		q:0;
 		n:0;
